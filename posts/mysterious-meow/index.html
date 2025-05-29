@@ -1,13 +1,16 @@
 <!DOCTYPE html>
 <html lang="en">
 <head><script src="/website/livereload.js?mindelay=10&amp;v=2&amp;port=1313&amp;path=website/livereload" data-no-instant defer></script>
-    <title>Posts | My New Hugo Site</title>
+    <title>mysterious meow | My New Hugo Site</title>
     <link rel="canonical" href="http://localhost:1313/website/">
     
     
     
-    <meta name="description" content="">
+    <meta name="description" content="meow
+meow&hellip; meow rawr, meow meow meow!">
     
+    
+    <meta name="keywords" content="meow">
     
     
     <style>
@@ -521,6 +524,117 @@ header h1 a:hover {
         <header><h1 id="My New Hugo Site"><a href="http://localhost:1313/">My New Hugo Site</a></h1></header>
 <main>
     
+<div  id="single-post" >
+    <aside class="table-of-contents sidebar">
+            
+
+  <nav class="toc">
+  <ul>
+
+      <li>
+        <a href="/website/posts/mysterious-meow/#meow" class="toc-item toc-level-1">
+          
+          
+          
+          1.
+           meow
+        </a>
+      </li>
+
+      <li>
+        <a href="/website/posts/mysterious-meow/#rawr" class="toc-item toc-level-2">
+          
+          
+          
+          1.1.
+           rawr
+        </a>
+      </li>
+  </ul>
+  </nav>
+
+    </aside>
+    
+
+    <article>
+        <div id="post-toc-mobile">
+            <button id="post-toc-btn" class="dropbox-btn" onclick="toggleDropbox('post-toc')" >☰</button>
+            <div id="post-toc" class="dropbox-content table-of-contents float">
+                
+
+  <nav class="toc">
+  <ul>
+
+      <li>
+        <a href="/website/posts/mysterious-meow/#meow" class="toc-item toc-level-1">
+          
+          
+          
+          1.
+           meow
+        </a>
+      </li>
+
+      <li>
+        <a href="/website/posts/mysterious-meow/#rawr" class="toc-item toc-level-2">
+          
+          
+          
+          1.1.
+           rawr
+        </a>
+      </li>
+  </ul>
+  </nav>
+
+            </div>
+        </div>
+        
+        <h2>mysterious meow</h2>
+        
+        tags:
+        
+        <a href="/tags/meow">meow</a>
+        
+        <div class="post-header">
+        @mochi <span class="timestamp">01/02/2025</span>
+        </div>
+        <p><h2 id="meow">meow</h2>
+<p>meow&hellip; meow rawr, meow meow meow!</p></p>
+        
+        <div>
+        
+        <a href="/photo6.png" target="_blank"><img style="max-height: 15rem; margin-right: .3rem;" src="/photo6.png"></a>
+        
+        </div>
+        
+        <div class="auto-numbering" id="full-content"><h3 id="rawr">rawr</h3>
+<p>rawr meow, meow meow rawr, rawr meow meow. meow rawr meow meow, rawr rawr rawr meow rawr, rawr meow meow.
+meow rawr, meow rawr meow!</p></div>
+        
+    </article>
+    <script>
+    window.addEventListener('click', e => {
+        let dropboxs = document.getElementsByClassName("dropbox-content");
+        let dropbox_btns = document.getElementsByClassName("dropbox-btn");
+
+        if (dropbox_btns.namedItem(e.target.id) != null) return;
+
+        if(dropboxs.namedItem(e.target.id) == null) {
+            for (let i = 0; i < dropboxs.length; i++) {
+                dropboxs[i].removeAttribute("visible");
+            }
+        }
+    }, true)
+
+    function toggleDropbox(id) {
+        let dropbox = document.getElementById(id);
+
+        dropbox.toggleAttribute("visible");
+    }
+    </script>
+</div>
+
     
 </main>
 </body>

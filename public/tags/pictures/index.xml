@@ -13,7 +13,7 @@
       <link>http://localhost:1313/website/posts/friends/</link>
       <pubDate>Wed, 29 Jan 2025 21:05:11 -0300</pubDate>
       <guid>http://localhost:1313/website/posts/friends/</guid>
-      <description>&lt;p&gt;I&amp;rsquo;m leaving this up for the time being as a visual example of pictures on the site.&lt;/p&gt;</description>
+      <description>&lt;p&gt;I&amp;rsquo;m leaving this up for the time being as a visual example of pictures on the site.&#xA;&lt;img src=&#34;http://localhost:1313/website/images/photo1.png&#34; alt=&#34;Title Image 1&#34;&gt;&lt;/p&gt;</description>
     </item>
   </channel>
 </rss>

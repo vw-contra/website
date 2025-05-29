@@ -1,14 +1,14 @@
 ---
 headless: true
-title: "welcome to my blog~!"
+title: "welcome to contraland!"
 intro: 
-  - "this is an example introduction. feel free to customize it!"
-  - "add more lines to make it personal."
-image: "/cat.png"
+  - "Here I plan to talk about music, videogames, and whatever else is my interest of the day!"
+  - "This blog will also 'hopefully' mark the beginning of my coding journey :)"
+image: ""
 list:
-  name: "things i love:"
+  name: "Current Favorite Songs:"
   items: 
-    - "coding"
-    - "cats"
-    - "coffee"
+    - "6:00 am - idialedyournumber"
+    - "Please don't cry, you have swag - Hot Mulligan"
+    - "Vanilla Twilight - Owl City"
 ---

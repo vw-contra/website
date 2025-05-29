@@ -1,15 +1,15 @@
 ---
-title: "friends!!"
+title: "TEST"
 date: "2025-01-29T21:05:11-03:00"
-tags: ["meow", "rawr",]
-title-images: ["/photo1.png", "/photo2.png",]
-ending-images: ["/photo3.png", "/photo4.png", "/photo5.png",]
-author: "mochi"
+tags: ["test"]
+title-images: []
+ending-images: []
+author: "vw-contra"
 draft: false
 ---
 <!-- introduction -->
-meow rawr meow meow, rawr!
+this is my testing intro
 <!--more-->
+it is cool if you can read this too!
 <!-- rest of the content -->
-rawr meow, meow rawr rawr meow meow, rawr meow meow rawr!
-rawr meow meow rawr, rawr meow meow meow rawr!
+it is good for me if you can read this

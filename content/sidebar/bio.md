@@ -1,6 +1,6 @@
 ---
 headless: true
 ---
-meow! mochi here, your purrfect companion
+I'm vw_contra. This is a test intro!
 
-rawr do you like my blog?
+I look forward to blogging soon!

@@ -1,11 +1,10 @@
 ---
 headless: true
 icon-use-flower-shape: false
-icon-path: "/icon.png"
+icon-path: "icon.png"
 links:
-    - link: "https://itch.io"
-      name: "itch.io"
+    - link: "https://www.twitch.tv/vw_contra"
+      name: "twitch"
 
-    - link: "https://www.patreon.com"
-      name: "patreon"
+
 ---

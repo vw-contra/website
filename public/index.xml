@@ -1,33 +1,26 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>My New Hugo Site</title>
+    <title>CONTRALAND</title>
     <link>http://localhost:1313/website/</link>
-    <description>Recent content on My New Hugo Site</description>
+    <description>Recent content on CONTRALAND</description>
     <generator>Hugo</generator>
     <language>en-us</language>
-    <lastBuildDate>Wed, 29 Jan 2025 21:05:11 -0300</lastBuildDate>
+    <lastBuildDate>Fri, 30 May 2025 00:00:00 +0000</lastBuildDate>
     <atom:link href="http://localhost:1313/website/index.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>friends!!</title>
-      <link>http://localhost:1313/website/posts/friends/</link>
-      <pubDate>Wed, 29 Jan 2025 21:05:11 -0300</pubDate>
-      <guid>http://localhost:1313/website/posts/friends/</guid>
-      <description>&lt;p&gt;I&amp;rsquo;m leaving this up for the time being as a visual example of pictures on the site.&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>TEST</title>
-      <link>http://localhost:1313/website/posts/friends-copy/</link>
-      <pubDate>Wed, 29 Jan 2025 21:05:11 -0300</pubDate>
-      <guid>http://localhost:1313/website/posts/friends-copy/</guid>
-      <description>&lt;p&gt;this is my testing intro&lt;/p&gt;</description>
+      <title>First Post!</title>
+      <link>http://localhost:1313/website/posts/post1/</link>
+      <pubDate>Fri, 30 May 2025 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/website/posts/post1/</guid>
+      <description>&lt;p&gt;An introduction and some words..&lt;/p&gt;</description>
     </item>
     <item>
       <title></title>
       <link>http://localhost:1313/website/firstcontent/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       <guid>http://localhost:1313/website/firstcontent/</guid>
-      <description>&lt;h1 id=&#34;my-cool-website&#34;&gt;My Cool Website&lt;/h1&gt;</description>
+      <description>&lt;h1 id=&#34;contraland&#34;&gt;CONTRALAND&lt;/h1&gt;</description>
     </item>
   </channel>
 </rss>

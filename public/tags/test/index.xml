@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Test on My New Hugo Site</title>
+    <title>Test on CONTRALAND</title>
     <link>http://localhost:1313/website/tags/test/</link>
-    <description>Recent content in Test on My New Hugo Site</description>
+    <description>Recent content in Test on CONTRALAND</description>
     <generator>Hugo</generator>
     <language>en-us</language>
     <lastBuildDate>Wed, 29 Jan 2025 21:05:11 -0300</lastBuildDate>

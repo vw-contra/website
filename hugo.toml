@@ -1,6 +1,6 @@
 baseURL = 'https://vw-contra.github.io/website/'
 languageCode = 'en-us'
-title = 'My New Hugo Site'
+title = 'CONTRALAND'
 theme = "neopost"
 [params]
-    theme = "light-blue"
+    theme = "light-green"

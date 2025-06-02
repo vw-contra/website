@@ -1,7 +1,7 @@
 ---
 title: "First Post!"
 date: "2025-05-30"
-tags: ["first","blog"]
+tags: ["#first","#blog"]
 title-images: []
 ending-images: []
 author: "vw-contra"

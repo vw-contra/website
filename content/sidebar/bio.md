@@ -1,6 +1,6 @@
 ---
 headless: true
 ---
-I'm vw_contra. This is a test intro!
+I'm vw_contra. This is my personal blog!
 
-I look forward to blogging soon!
+Below is my Twitch that I rarely ever stream on and my email you can message me at!

@@ -3,4 +3,4 @@ languageCode = 'en-us'
 title = 'CONTRALAND'
 theme = "neopost"
 [params]
-    theme = "light-green"
+    theme = "purple"

@@ -17,7 +17,7 @@ A brief chat about the site and that ominous bird. + music talk
 
 I honestly don't have a ton to talk about on this post, I just wanted to throw something out there. I made some updates to the site today that took me an embarrasing amount of time and research o_O. 
 
-I changed the theme to be purple-centric with some gloriously painful yellow text. (for the sake of our eyes main text will remain black.. for now..) 
+I changed the theme to be purple-centric ~with some gloriously painful yellow text. (for the sake of our eyes main text will remain black.. for now..)~ that lasted about 24 hours lol 
 
 I added a button that will allow my millions of fans worldwide to email me. Go ahead and try it out, but you all should consider taking turns as to not overwhelm google's servers.
 

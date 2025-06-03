@@ -2,17 +2,18 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>#Bird on CONTRALAND</title>
-    <link>http://localhost:1313/website/tags/%23bird/</link>
+    <link>http://localhost:51146/website/tags/%23bird/</link>
     <description>Recent content in #Bird on CONTRALAND</description>
     <generator>Hugo</generator>
     <language>en-us</language>
-    <atom:link href="http://localhost:1313/website/tags/%23bird/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Mon, 02 Jun 2025 00:00:00 +0000</lastBuildDate>
+    <atom:link href="http://localhost:51146/website/tags/%23bird/index.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>contra 2: the bloggening</title>
-      <link>http://localhost:1313/website/posts/post2/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/website/posts/post2/</guid>
-      <description>&lt;p&gt;A brief chat about the site and that ominous bird.&lt;/p&gt;</description>
+      <title>website updates &amp; first music talk</title>
+      <link>http://localhost:51146/website/posts/post2/</link>
+      <pubDate>Mon, 02 Jun 2025 00:00:00 +0000</pubDate>
+      <guid>http://localhost:51146/website/posts/post2/</guid>
+      <description>&lt;p&gt;A brief chat about the site and that ominous bird. + music talk&lt;/p&gt;</description>
     </item>
   </channel>
 </rss>

@@ -2,31 +2,31 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Tags on CONTRALAND</title>
-    <link>http://localhost:51146/website/tags/</link>
+    <link>http://localhost:51172/website/tags/</link>
     <description>Recent content in Tags on CONTRALAND</description>
     <generator>Hugo</generator>
     <language>en-us</language>
     <lastBuildDate>Mon, 02 Jun 2025 00:00:00 +0000</lastBuildDate>
-    <atom:link href="http://localhost:51146/website/tags/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="http://localhost:51172/website/tags/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>#Bird</title>
-      <link>http://localhost:51146/website/tags/%23bird/</link>
+      <link>http://localhost:51172/website/tags/%23bird/</link>
       <pubDate>Mon, 02 Jun 2025 00:00:00 +0000</pubDate>
-      <guid>http://localhost:51146/website/tags/%23bird/</guid>
+      <guid>http://localhost:51172/website/tags/%23bird/</guid>
       <description></description>
     </item>
     <item>
       <title>#Blog</title>
-      <link>http://localhost:51146/website/tags/%23blog/</link>
+      <link>http://localhost:51172/website/tags/%23blog/</link>
       <pubDate>Mon, 02 Jun 2025 00:00:00 +0000</pubDate>
-      <guid>http://localhost:51146/website/tags/%23blog/</guid>
+      <guid>http://localhost:51172/website/tags/%23blog/</guid>
       <description></description>
     </item>
     <item>
       <title>#First</title>
-      <link>http://localhost:51146/website/tags/%23first/</link>
+      <link>http://localhost:51172/website/tags/%23first/</link>
       <pubDate>Fri, 30 May 2025 00:00:00 +0000</pubDate>
-      <guid>http://localhost:51146/website/tags/%23first/</guid>
+      <guid>http://localhost:51172/website/tags/%23first/</guid>
       <description></description>
     </item>
   </channel>

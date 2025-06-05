@@ -6,8 +6,22 @@
     <description>Recent content in Tags on CONTRALAND</description>
     <generator>Hugo</generator>
     <language>en-us</language>
-    <lastBuildDate>Mon, 02 Jun 2025 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 05 Jun 2025 00:00:00 +0000</lastBuildDate>
     <atom:link href="http://localhost:1313/website/tags/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>#Blog</title>
+      <link>http://localhost:1313/website/tags/%23blog/</link>
+      <pubDate>Thu, 05 Jun 2025 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/website/tags/%23blog/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>#Gametime</title>
+      <link>http://localhost:1313/website/tags/%23gametime/</link>
+      <pubDate>Thu, 05 Jun 2025 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/website/tags/%23gametime/</guid>
+      <description></description>
+    </item>
     <item>
       <title>#Bird</title>
       <link>http://localhost:1313/website/tags/%23bird/</link>
@@ -16,17 +30,10 @@
       <description></description>
     </item>
     <item>
-      <title>#Blog</title>
-      <link>http://localhost:1313/website/tags/%23blog/</link>
+      <title>#Musictalk</title>
+      <link>http://localhost:1313/website/tags/%23musictalk/</link>
       <pubDate>Mon, 02 Jun 2025 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/website/tags/%23blog/</guid>
-      <description></description>
-    </item>
-    <item>
-      <title>Music Talk</title>
-      <link>http://localhost:1313/website/tags/music-talk/</link>
-      <pubDate>Mon, 02 Jun 2025 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/website/tags/music-talk/</guid>
+      <guid>http://localhost:1313/website/tags/%23musictalk/</guid>
       <description></description>
     </item>
     <item>

@@ -1,13 +1,13 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>#Bird on CONTRALAND</title>
-    <link>http://localhost:1313/website/tags/%23bird/</link>
-    <description>Recent content in #Bird on CONTRALAND</description>
+    <title>Musictalk on CONTRALAND</title>
+    <link>http://localhost:1313/website/tags/musictalk/</link>
+    <description>Recent content in Musictalk on CONTRALAND</description>
     <generator>Hugo</generator>
     <language>en-us</language>
     <lastBuildDate>Mon, 02 Jun 2025 00:00:00 +0000</lastBuildDate>
-    <atom:link href="http://localhost:1313/website/tags/%23bird/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="http://localhost:1313/website/tags/musictalk/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>website updates &amp; first music talk</title>
       <link>http://localhost:1313/website/posts/post2/</link>

@@ -1,7 +1,7 @@
 ---
 title: "*deltarune has entered the chat*"
 date: "2025-06-05"
-tags: ["#gametime","#blog"]
+tags: ["gametime","blog"]
 title-images: []
 ending-images: []
 author: "vw-contra"

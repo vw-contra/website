@@ -9,38 +9,38 @@
     <lastBuildDate>Thu, 05 Jun 2025 00:00:00 +0000</lastBuildDate>
     <atom:link href="http://localhost:1313/website/tags/index.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>#Blog</title>
-      <link>http://localhost:1313/website/tags/%23blog/</link>
+      <title>Blog</title>
+      <link>http://localhost:1313/website/tags/blog/</link>
       <pubDate>Thu, 05 Jun 2025 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/website/tags/%23blog/</guid>
+      <guid>http://localhost:1313/website/tags/blog/</guid>
       <description></description>
     </item>
     <item>
-      <title>#Gametime</title>
-      <link>http://localhost:1313/website/tags/%23gametime/</link>
+      <title>Gametime</title>
+      <link>http://localhost:1313/website/tags/gametime/</link>
       <pubDate>Thu, 05 Jun 2025 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/website/tags/%23gametime/</guid>
+      <guid>http://localhost:1313/website/tags/gametime/</guid>
       <description></description>
     </item>
     <item>
-      <title>#Bird</title>
-      <link>http://localhost:1313/website/tags/%23bird/</link>
+      <title>Bird</title>
+      <link>http://localhost:1313/website/tags/bird/</link>
       <pubDate>Mon, 02 Jun 2025 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/website/tags/%23bird/</guid>
+      <guid>http://localhost:1313/website/tags/bird/</guid>
       <description></description>
     </item>
     <item>
-      <title>#Musictalk</title>
-      <link>http://localhost:1313/website/tags/%23musictalk/</link>
+      <title>Musictalk</title>
+      <link>http://localhost:1313/website/tags/musictalk/</link>
       <pubDate>Mon, 02 Jun 2025 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/website/tags/%23musictalk/</guid>
+      <guid>http://localhost:1313/website/tags/musictalk/</guid>
       <description></description>
     </item>
     <item>
-      <title>#First</title>
-      <link>http://localhost:1313/website/tags/%23first/</link>
+      <title>First</title>
+      <link>http://localhost:1313/website/tags/first/</link>
       <pubDate>Fri, 30 May 2025 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/website/tags/%23first/</guid>
+      <guid>http://localhost:1313/website/tags/first/</guid>
       <description></description>
     </item>
   </channel>

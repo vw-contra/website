@@ -5,13 +5,13 @@
     <loc>http://localhost:1313/website/posts/post3/</loc>
     <lastmod>2025-06-05T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/website/tags/%23blog/</loc>
-    <lastmod>2025-06-05T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>http://localhost:1313/website/tags/%23gametime/</loc>
+    <loc>http://localhost:1313/website/tags/blog/</loc>
     <lastmod>2025-06-05T00:00:00+00:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/website/</loc>
+    <lastmod>2025-06-05T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/website/tags/gametime/</loc>
     <lastmod>2025-06-05T00:00:00+00:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/website/posts/</loc>
@@ -20,16 +20,16 @@
     <loc>http://localhost:1313/website/tags/</loc>
     <lastmod>2025-06-05T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/website/tags/%23bird/</loc>
+    <loc>http://localhost:1313/website/tags/bird/</loc>
     <lastmod>2025-06-02T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/website/tags/%23musictalk/</loc>
+    <loc>http://localhost:1313/website/tags/musictalk/</loc>
     <lastmod>2025-06-02T00:00:00+00:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/website/posts/post2/</loc>
     <lastmod>2025-06-02T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/website/tags/%23first/</loc>
+    <loc>http://localhost:1313/website/tags/first/</loc>
     <lastmod>2025-05-30T00:00:00+00:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/website/posts/post1/</loc>

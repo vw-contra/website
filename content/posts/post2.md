@@ -1,7 +1,7 @@
 ---
 title: "website updates & first music talk"
 date: "2025-06-02"
-tags: ["#bird","#blog","#musictalk"]
+tags: ["bird","blog","musictalk"]
 title-images: []
 ending-images: []
 author: "vw-contra"

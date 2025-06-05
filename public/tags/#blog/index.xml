@@ -16,6 +16,13 @@
       <description>&lt;p&gt;A brief chat about the site and that ominous bird. + music talk&lt;/p&gt;</description>
     </item>
     <item>
+      <title></title>
+      <link>http://localhost:1313/website/posts/post3/</link>
+      <pubDate>Fri, 30 May 2025 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/website/posts/post3/</guid>
+      <description></description>
+    </item>
+    <item>
       <title>First Post!</title>
       <link>http://localhost:1313/website/posts/post1/</link>
       <pubDate>Fri, 30 May 2025 00:00:00 +0000</pubDate>

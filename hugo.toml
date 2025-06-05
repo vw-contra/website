@@ -4,3 +4,5 @@ title = 'CONTRALAND'
 theme = "neopost"
 [params]
     theme = "purple"
+[taxonomies]
+tag = "tags"

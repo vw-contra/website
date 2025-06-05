@@ -2,31 +2,31 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Blog on CONTRALAND</title>
-    <link>http://localhost:1313/website/tags/blog/</link>
+    <link>https://vw-contra.github.io/website/tags/blog/</link>
     <description>Recent content in Blog on CONTRALAND</description>
     <generator>Hugo</generator>
     <language>en-us</language>
     <lastBuildDate>Thu, 05 Jun 2025 00:00:00 +0000</lastBuildDate>
-    <atom:link href="http://localhost:1313/website/tags/blog/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="https://vw-contra.github.io/website/tags/blog/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>*deltarune has entered the chat*</title>
-      <link>http://localhost:1313/website/posts/post3/</link>
+      <link>https://vw-contra.github.io/website/posts/post3/</link>
       <pubDate>Thu, 05 Jun 2025 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/website/posts/post3/</guid>
+      <guid>https://vw-contra.github.io/website/posts/post3/</guid>
       <description>&lt;p&gt;Mr. Fox has done it again. Followed by some plans/ ideas for the website and probably some ramblings.&lt;/p&gt;</description>
     </item>
     <item>
       <title>website updates &amp; first music talk</title>
-      <link>http://localhost:1313/website/posts/post2/</link>
+      <link>https://vw-contra.github.io/website/posts/post2/</link>
       <pubDate>Mon, 02 Jun 2025 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/website/posts/post2/</guid>
+      <guid>https://vw-contra.github.io/website/posts/post2/</guid>
       <description>&lt;p&gt;A brief chat about the site and that ominous bird. + music talk&lt;/p&gt;</description>
     </item>
     <item>
       <title>First Post!</title>
-      <link>http://localhost:1313/website/posts/post1/</link>
+      <link>https://vw-contra.github.io/website/posts/post1/</link>
       <pubDate>Fri, 30 May 2025 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/website/posts/post1/</guid>
+      <guid>https://vw-contra.github.io/website/posts/post1/</guid>
       <description>&lt;p&gt;An introduction and some words..&lt;/p&gt;</description>
     </item>
   </channel>

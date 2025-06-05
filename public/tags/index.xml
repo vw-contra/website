@@ -2,45 +2,45 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Tags on CONTRALAND</title>
-    <link>http://localhost:1313/website/tags/</link>
+    <link>https://vw-contra.github.io/website/tags/</link>
     <description>Recent content in Tags on CONTRALAND</description>
     <generator>Hugo</generator>
     <language>en-us</language>
     <lastBuildDate>Thu, 05 Jun 2025 00:00:00 +0000</lastBuildDate>
-    <atom:link href="http://localhost:1313/website/tags/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="https://vw-contra.github.io/website/tags/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Blog</title>
-      <link>http://localhost:1313/website/tags/blog/</link>
+      <link>https://vw-contra.github.io/website/tags/blog/</link>
       <pubDate>Thu, 05 Jun 2025 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/website/tags/blog/</guid>
+      <guid>https://vw-contra.github.io/website/tags/blog/</guid>
       <description></description>
     </item>
     <item>
       <title>Gametime</title>
-      <link>http://localhost:1313/website/tags/gametime/</link>
+      <link>https://vw-contra.github.io/website/tags/gametime/</link>
       <pubDate>Thu, 05 Jun 2025 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/website/tags/gametime/</guid>
+      <guid>https://vw-contra.github.io/website/tags/gametime/</guid>
       <description></description>
     </item>
     <item>
       <title>Bird</title>
-      <link>http://localhost:1313/website/tags/bird/</link>
+      <link>https://vw-contra.github.io/website/tags/bird/</link>
       <pubDate>Mon, 02 Jun 2025 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/website/tags/bird/</guid>
+      <guid>https://vw-contra.github.io/website/tags/bird/</guid>
       <description></description>
     </item>
     <item>
       <title>Musictalk</title>
-      <link>http://localhost:1313/website/tags/musictalk/</link>
+      <link>https://vw-contra.github.io/website/tags/musictalk/</link>
       <pubDate>Mon, 02 Jun 2025 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/website/tags/musictalk/</guid>
+      <guid>https://vw-contra.github.io/website/tags/musictalk/</guid>
       <description></description>
     </item>
     <item>
       <title>First</title>
-      <link>http://localhost:1313/website/tags/first/</link>
+      <link>https://vw-contra.github.io/website/tags/first/</link>
       <pubDate>Fri, 30 May 2025 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/website/tags/first/</guid>
+      <guid>https://vw-contra.github.io/website/tags/first/</guid>
       <description></description>
     </item>
   </channel>

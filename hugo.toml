@@ -1,4 +1,5 @@
 baseURL = 'https://vw-contra.github.io/website/'
+canonifyURLs = true
 languageCode = 'en-us'
 title = 'CONTRALAND'
 theme = "neopost"

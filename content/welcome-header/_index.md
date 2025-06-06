@@ -8,5 +8,7 @@ image: ""
 list:
   name: "Current Favorite Songs:"
   items: 
-
+    - "6:00 am - idialedyournumber"
+    - "A Letter to Elise - The Cure"
+    - "Girl/Boy Song - Aphex Twin"
 ---

@@ -9,6 +9,6 @@ list:
   name: "Current Favorite Songs:"
   items: 
     - "6:00 am - idialedyournumber"
-    - "Please don't cry, you have swag - Hot Mulligan"
+    - "A Letter to Elise - The Cure"
     - "Girl/Boy Song - Aphex Twin"
 ---

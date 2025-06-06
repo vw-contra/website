@@ -13,7 +13,7 @@ An introduction and some words..
 
 # WELCOME!  
 
-Hello! If your reading this I am surprised you found it. If you couldn't tell by the title, tags, and intro, *this* is my first post on my website. I have always wanted to start a blog like this and I am excited to see where it goes. I would like to acknowledge a few things that made it possible for me to be typing this right now. First off, my good friend (who knows who he is) that had the knowledge of how to set all of this up. For this site, I am using the static site generator Hugo, the Hugo theme neopost (by salatine and cartola), and I am hosting it on GitHub Pages.  
+Hello! If your reading this I am surprised you found it. If you couldn't tell by the title, tags, and intro, *this* is my first post on my website. I have always wanted to start a blog like this and I am excited to see where it goes. For this site, I am using the static site generator Hugo, the Hugo theme neopost (by salatine and cartola), and I am hosting it on GitHub Pages.  
 
 <!-- rest of the content -->  
 

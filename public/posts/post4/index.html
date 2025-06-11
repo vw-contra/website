@@ -1,13 +1,15 @@
 <!DOCTYPE html>
 <html lang="en">
 <head>
-    <title>Blog | CONTRALAND</title>
+    <title>a post for the sake of posting | CONTRALAND</title>
     <link rel="canonical" href="https://vw-contra.github.io/website/">
     
     
     
-    <meta name="description" content="">
+    <meta name="description" content="I don&rsquo;t have much to say today, but wanted to post anyway :P">
     
+    
+    <meta name="keywords" content="blog">
     
     
     <style>
@@ -521,37 +523,51 @@ header h1 a:hover {
         <header><h1 id="CONTRALAND"><a href="https://vw-contra.github.io/website/">CONTRALAND</a></h1></header>
 <main>
     
-<article style="padding-left: 2rem;">
-    <h2>Blog</h2>
-    <ul>
+<div >
+
+    <article>
+        <h2>a post for the sake of posting</h2>
         
-        <li class="tag-item">
-            <a href="https://vw-contra.github.io/website/posts/post4/">a post for the sake of posting</a>
-            <p> > I don&rsquo;t have much to say today, but wanted to post anyway :P
-YIPEE POST TIME!!! Like the intro said, I don&rsquo;t really have much to say today. I do want to post something on here at least like once a week, and the rest of my week is busy so …</p>
-        </li>
+        tags:
         
-        <li class="tag-item">
-            <a href="https://vw-contra.github.io/website/posts/post3/">*deltarune has entered the chat*</a>
-            <p> > Mr. Fox has done it again. Followed by some plans/ ideas for the website and probably some ramblings.
-DELTARUNE ^_^ I felt obligated to write at least a little about this because of the impact Undertale had on me (and everyone else) when I first …</p>
-        </li>
+        <a href="https://vw-contra.github.io/website/tags/blog">blog</a>
         
-        <li class="tag-item">
-            <a href="https://vw-contra.github.io/website/posts/post2/">website updates &amp; first music talk</a>
-            <p> > A brief chat about the site and that ominous bird. + music talk
-bird talk I honestly don&rsquo;t have a ton to talk about on this post, I just wanted to throw something out there. I made some updates to the site today that took me an embarrasing …</p>
-        </li>
+        <div class="post-header">
+        @vw-contra <span class="timestamp">11/06/2025</span>
+        </div>
+        <p><p>I don&rsquo;t have much to say today, but wanted to post anyway :P</p></p>
         
-        <li class="tag-item">
-            <a href="https://vw-contra.github.io/website/posts/post1/">First Post!</a>
-            <p> > An introduction and some words..
-WELCOME! Hello! If your reading this I am surprised you found it. If you couldn&rsquo;t tell by the title, tags, and intro, this is my first post on my website. I have always wanted to start a blog like this and I am …</p>
-        </li>
+        <div class="auto-numbering" id="full-content"><h1 id="yipee-post-time">YIPEE POST TIME!!!</h1>
+<p>Like the intro said, I don&rsquo;t really have much to say today. I do want to post something on here at least like once a week, and the rest of my week is busy so now is the best time for me. Does putting a requirement on myself for posting cause a dip in post quality? Absolutely. This site isn&rsquo;t really where you should be looking for masterfully-crafted takes anyways ¯\<em>(ツ)</em>/¯</p>
+<p>I was honestly wanting to do another music talk, and I may do one at some point this week, but I don&rsquo;t think I will have one today. I can talk some about music in general though. I have been listening to a lot of Aphex Twin recently. Girl/Boy Song creeped into my top three on the homepage if you didn&rsquo;t notice. Admittedly, Aphex Twin has always been on my radar ( absolute legend ), but I haven&rsquo;t ever done a deep dive into his music until pretty recently. I definitely want to do a music talk on him at some point, but I&rsquo;d like to get more familiar with his discography first.</p>
+<p>On the videogames front I don&rsquo;t really have much going on either. I have still been playing Deltarune, some friends and I started playing For Honor again recently ( and it&rsquo;s still wonderfully rage inducing ), and I have had an itch for a fun casual game. As much as I hate to say it, I also miss League of Legends. Here&rsquo;s some contra lore: I have a hefty amount of hours spent on lol, but I quit when they hit my main ( Jinx ) with a $200 skin. That game has some of my favorite memories attached to gaming, and it kinda sucks to quit it outright, but Riot Games does not care at all about the fans. Could be a skill issue tho</p>
+<h1 id="in-conclusion">IN CONCLUSION</h1>
+<p>I ended up writing more that I really even planned, but that&rsquo;s how it goes. Once I start typing, the words flow. I could end up posting something else this week, but I will definitely post something next week if not. Also, next week I&rsquo;m gonna be at the beach so thats cool. <em>whoop whoop</em></p>
+<pre><code>            ~vw_contra
+</code></pre></div>
         
-    </ul>
-    <p style="margin-top: 2.5rem;"><a href="https://vw-contra.github.io/website/tags">all tags</a></p>
-</article>
+    </article>
+    <script>
+    window.addEventListener('click', e => {
+        let dropboxs = document.getElementsByClassName("dropbox-content");
+        let dropbox_btns = document.getElementsByClassName("dropbox-btn");
+
+        if (dropbox_btns.namedItem(e.target.id) != null) return;
+
+        if(dropboxs.namedItem(e.target.id) == null) {
+            for (let i = 0; i < dropboxs.length; i++) {
+                dropboxs[i].removeAttribute("visible");
+            }
+        }
+    }, true)
+
+    function toggleDropbox(id) {
+        let dropbox = document.getElementById(id);
+
+        dropbox.toggleAttribute("visible");
+    }
+    </script>
+</div>
 
     
 </main>

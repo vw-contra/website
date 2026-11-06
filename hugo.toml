@@ -1,9 +1,9 @@
 baseURL = 'https://vw-contra.github.io/website/'
 canonifyURLs = true
 languageCode = 'en-us'
-title = 'CONTRALAND'
+title = 'CONTRA CITY NEWS'
 theme = "neopost"
 [params]
-    theme = "purple"
+    theme = "light-green"
 [taxonomies]
 tag = "tags"

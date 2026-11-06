@@ -1,8 +1,8 @@
 <!DOCTYPE html>
 <html lang="en">
-<head>
-    <title>First Post! | CONTRALAND</title>
-    <link rel="canonical" href="https://vw-contra.github.io/website/">
+<head><script src="/website/livereload.js?mindelay=10&amp;v=2&amp;port=1313&amp;path=website/livereload" data-no-instant defer></script>
+    <title>First Post! | CONTRA CITY NEWS</title>
+    <link rel="canonical" href="http://localhost:1313/website/">
     
     
     
@@ -16,20 +16,22 @@
 
 
 
+
+
 :root {
-    --site-bg: url("images/space.jpg");
-    --accent-color: #9c27b0;
-    --select-color: #ba68c8;
-    --link-color: #F28313;
-    --bg-color: #7333e3;
-    --text-color: #2c2c2c;
-    --bg-color2: #CCCCFF;
-    --border-color: #ce93d8;
-    --special-text-color: #F28313;
-    --post-header-color: #7728DC;
-    --post-shadow-color: #ab47bc;
-    --outline-color: #ce93d8;
-    --outline-color2: #ab47bc;
+    --site-bg: url("website/static/images/space.jpg");
+    --accent-color: #C23636;
+    --select-color: #3E5ACF;
+    --link-color: #000000;
+    --bg-color: #2F7D3F;
+    --text-color: #000000;
+    --bg-color2: #87E169;
+    --border-color: #3E5ACF;
+    --special-text-color: #388e3c;
+    --post-header-color: #87E169;
+    --post-shadow-color: #C23636;
+    --outline-color: #2F7D3F;
+    --outline-color2: #000000;
     --list-style-type: "";
     --list-style-image: url("/flower.png");
 }
@@ -77,6 +79,22 @@ body {
 
 p {line-height: 1.5em;}
 
+div.tags {
+    display: block;
+    width: 100%;
+    text-align: center;
+    margin: .5rem 0;
+}
+
+div.tags > p.tags {
+    text-align: center;
+    margin-bottom: 0;
+}
+
+div.tags > a {
+    margin-top: .5rem;
+}
+
 h1 {
     font-size: 1.5em;
     color: var(--post-header-color);
@@ -102,7 +120,7 @@ header > h1 {
     font-size: 2em;
  
      
-    max-width: 600px;
+    max-width: 48rem;
     padding: 6px 12px;
     border-radius: 1em;
     border: 4px double var(--outline-color);
@@ -114,6 +132,19 @@ ul.pagination {
     display: flex;
     justify-content: center;
     padding: 0;
+}
+
+
+ul.tags {
+    margin: 0;
+    padding: 0;
+    text-align: center;
+    justify-content: center;
+}
+
+ul.tags li {
+    display: inline-block;
+    margin: 0 .2rem;
 }
 
 li.page-item {
@@ -259,6 +290,7 @@ a:hover {
     border: 4px double var(--bg-color2);
     border-radius: 2em;
     font-size: small;
+    color: #000000;
 }
 
 #bio p { margin: 1em; }
@@ -324,7 +356,15 @@ header h1 a:hover {
 }
 
 .readmore div p {
+    display: block;
+}
+
+.read-more-btn {
     display: inline;
+    cursor: pointer;
+    margin-left: 4px;
+    color: var(--link-color);
+    text-decoration: underline;
 }
 
 .readmore summary::-webkit-details-marker {
@@ -453,12 +493,12 @@ header h1 a:hover {
 
 #single-post {
     display: flex;
+    justify-content: center;
     gap: 1rem;
 }
 
 #single-post > article {
-    width: 100%;
-    margin-bottom: 0;
+    max-width: 48rem
 }
 
 #single-post > article > #post-toc-mobile {
@@ -471,7 +511,6 @@ header h1 a:hover {
         flex-wrap: wrap;
     }
     #sidebar {
-        margin: 0;
         width: 100%;
         display: flex;
         flex-wrap: wrap;
@@ -479,6 +518,7 @@ header h1 a:hover {
         align-items: center;
         border: none;
         border-radius: 0;
+        margin-right: 0;
         margin-bottom: 1em;
         border-radius: .3em;
     }
@@ -501,7 +541,7 @@ header h1 a:hover {
         flex-wrap: wrap;
         gap: 1em;
     }
-    #sidebar li {
+    #sidebar > .small-box li {
         margin: .3em 1em;
     }
 
@@ -513,6 +553,14 @@ header h1 a:hover {
         display: inline;
     }
 }
+
+pre {
+    border:1px solid var(--outline-color);
+    border-radius:6px;
+    padding:0.75rem 1rem;
+    margin:1.2rem 0;
+    overflow-x:auto;  
+}
 </style>
 
     <meta name="viewport" content="width=device-width, initial-scale=1">
@@ -520,19 +568,19 @@ header h1 a:hover {
     <meta charset="utf-8">
 </head>
 <body>
-        <header><h1 id="CONTRALAND"><a href="https://vw-contra.github.io/website/">CONTRALAND</a></h1></header>
+        <header><h1 id="CONTRA CITY NEWS"><a href="http://localhost:1313/">CONTRA CITY NEWS</a></h1></header>
 <main>
     
-<div >
+<div id="single-post">
 
     <article>
         <h2>First Post!</h2>
         
         tags:
         
-        <a href="https://vw-contra.github.io/website/tags/first">first</a>,
+        <a href="http://localhost:1313/website/tags/first">first</a>,
         
-        <a href="https://vw-contra.github.io/website/tags/blog">blog</a>
+        <a href="http://localhost:1313/website/tags/blog">blog</a>
         
         <div class="post-header">
         @vw-contra <span class="timestamp">30/05/2025</span>

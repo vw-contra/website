@@ -1,7 +1,7 @@
 ---
 headless: true
 icon-use-flower-shape: false
-icon-path: "images/contraicon.png"
+icon-path: "images/frogpfp.png"
 links:
     - link: "https://www.twitch.tv/vw_contra"
       name: "twitch"
